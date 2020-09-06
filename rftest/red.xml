@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <robotExecEnvironment path="C:/Python37" interpreter="Python"/>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="inifun" path="rftest/funlibrary/inifun.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="user" path="rftest/keyword/user.py" dynamic="false"/>
+    <pythonpath>
+        <path location="C:\Python37"/>
+        <path location="G:\ride"/>
+    </pythonpath>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
